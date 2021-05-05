@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @aleinadrh
-
-![hippo](https://media.giphy.com/media/2cUI16HFpJVv6jsBFw/giphy.gif)
+![hippo](https://media.giphy.com/media/X8tZTVh3CsSiHILozR/giphy.gif)
