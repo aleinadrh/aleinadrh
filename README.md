@@ -1,11 +1,17 @@
 <p align="center">
   <img src="https://media.giphy.com/media/X8tZTVh3CsSiHILozR/giphy.gif" width="500">
   <br>
-  <br>
 </p>
  
+ <h1> Holi, soy Dani Front-end Developer y Aprendiz de UX/UI Designer </h1> 
+
+<img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> 
  
- <img src="https://media.giphy.com/media/oUdhhZyeptEum29YHx/giphy.gif" width="80" heigh="120"> 
+ <p align="center">
+ Soy muy curiosa y siempre me pregunto el ¿Porqué? de todo, He descubierto que los aspectos que me resultan más gratificantes están relacionados con el desarrollo y la tecnología. Me apasiona crear, hacer y aprender cosas nuevas.
+</p>
+
+ <img src="https://media.giphy.com/media/LpcMNO2HjD5x4CTIpi/giphy.gif" width="80" heigh="120"> Lenguajes y Herramientas 
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="50" height="50"/></a>
