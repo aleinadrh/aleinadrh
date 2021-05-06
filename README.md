@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/X8tZTVh3CsSiHILozR/giphy.gif" width="500">
 
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="50"> Languages and Tools:
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="80"> Languages and Tools:
 
 <p align="center">
   
