@@ -3,7 +3,7 @@
   <br>
 </p>
  
- <h1> Holi, soy Dani Front-end Developer y Aprendiz de UX/UI Designer </h1> 
+ <h1> Holi soy Dani, Front-end Developer y Aprendiz de UX/UI Designer </h1> 
 
 <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> <img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="80" heigh="120"> 
  
